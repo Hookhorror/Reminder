@@ -8,7 +8,7 @@ namespace Reminder
         public static void remind(int interval)
         {
             DateTime endTime = new DateTime().AddSeconds(interval);
-            
+
         }
         static void Main(string[] args)
         {
